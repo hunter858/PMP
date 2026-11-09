@@ -1,0 +1,128 @@
+{
+  "rootTag": 51,
+  "initialProps": {
+    "commonPluginVer": 0,
+    "isDebug": 0,
+    "isVideo": 0,
+    "models": "models",
+    "packageName": "com.mova.smarthome",
+    "resPackagePath": "",
+    "resVersion": 0,
+    "sdkVersion": 0,
+    "version": 408,
+    "entrance": {
+      "type": "operatingMode",
+      "extra": {},
+      "source": {
+        "piid": "2",
+        "eiid": "0",
+        "siid": "2",
+        "value": "122",
+        "aiid": "0"
+      }
+    },
+    "sdkInfo": {
+      "locale": {
+        "locale": {
+          "is24HourTime": true,
+          "language": "zh",
+          "timeZone": "Asia/Shanghai",
+          "systemLanguage": "zh_CN"
+        }
+      },
+      "host": {
+        "isIphoneXSeries": true,
+        "systemInfo": {
+          "mobileModel": "iPhone",
+          "sysVersion": "26.6.1",
+          "appVersion": "1.5.7"
+        },
+        "tenantId": "000002",
+        "isDreame": true,
+        "env": "release",
+        "isDebug": false
+      },
+      "account": {
+        "nickName": "李蒙",
+        "ID": "QE175383",
+        "avatarURL": "",
+        "userName": "李蒙"
+      },
+      "sdkConfig": {
+        "isDreame": true
+      },
+      "device": {
+        "model": "mova.mower.g2529c",
+        "groupName": null,
+        "mac": "10:06:48:A4:53:B2",
+        "lastVersion": "4.3.6_0453",
+        "deviceID": "-113860209",
+        "masterUid": "QE175383",
+        "featureCode": 0,
+        "property": {
+          "lwt": 1,
+          "mac": "10:06:48:A4:53:B2"
+        },
+        "isOnline": true,
+        "sn": "G2529C588EU00006A4",
+        "feature": "video_tx",
+        "customName": "",
+        "groupId": null,
+        "displayName": "LiDAX Ultra 1000",
+        "permissions": "",
+        "isOwner": true,
+        "groupType": "0",
+        "videoDynamicVendor": false,
+        "subModel": null,
+        "rawData": {
+          "customName": "",
+          "online": true,
+          "sharedTimes": 8,
+          "did": "-113860209",
+          "groupType": 0,
+          "sn": "G2529C588EU00006A4",
+          "lang": "",
+          "updateTime": "2026-09-11 01:37:13",
+          "masterUid": "QE175383",
+          "bindDomain": "20000.mt.cn.iot.mova-tech.com:19974",
+          "model": "mova.mower.g2529c",
+          "master": true,
+          "sharedStatus": 1,
+          "latestStatus": 13,
+          "ver": "4.3.6_0453",
+          "permissions": "",
+          "property": {
+            "lwt": 1,
+            "mac": "10:06:48:A4:53:B2"
+          },
+          "keyDefine": {
+            "url": "https://oss.iot.dreame.tech/pub/device_status_multi_lang/000002/ali_dreame/c81a7b53cb8342979c3a087c6a19279a851a8224_mova.mower.g2529c_iotKeyValue_translate_4.json",
+            "ver": 4
+          },
+          "deviceInfo": {
+            "categoryPath": "/lifeapps/mower",
+            "scType": "BLE",
+            "feature": "video_tx",
+            "mainImage": {
+              "imageUrl": "https://oss.iot.dreame.tech/pub/pic/000002/ali_dreame/null/0f5779d002342b9e95b47636314ff2dc20251125075847.png",
+              "smallImageUrl": ""
+            },
+            "permit": "pincode,video,aiobs",
+            "displayName": "LiDAX Ultra 1000",
+            "videoDynamicVendor": false,
+            "model": "mova.mower.g2529c",
+            "remark": "",
+            "productId": "11140"
+          }
+        }
+      },
+      "package": {
+        "packageName": "com.mova.smarthome",
+        "version": "408",
+        "models": "models",
+        "isVideo": false,
+        "isDebug": false
+      }
+    }
+  }
+}
